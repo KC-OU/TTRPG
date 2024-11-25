@@ -4,7 +4,7 @@
 > - [[Pathfinder]]
 > 	- ![[Emrakul.webp|300]]
 > - [[Star Wars Adventures]]
-> 	- ![[Emrakul.webp|300]]
+> 	- ![[StarTrek-MainPage.webp.webp|300]]
 > - [[Warhammer 40,000]]
 > 	- ![[Gamerules.webp|300]]
 
@@ -63,4 +63,5 @@ In a typical TTRPG, participants assume the roles of characters within a predete
 ### 7. Warhammer 40,000 Roleplay
 - Publisher: Games Workshop
 - Genre: Science Fiction, Dark Future
-- Unique Feature: Gritty, brutal setting with complex narrative possibilities
+- Unique Feature: Gritty, brutal setting with complex narrative possibilities 
+- 
