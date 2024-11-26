@@ -9,11 +9,11 @@ const openPublishPanel = app.commands.commands["publish:view-changes"].callback;
 const fileAndQuery = new Map([
   [
     "Last Modified",
-    'TABLE file.mtime AS "Last Modified" FROM "" AND -#IgnorePublish SORT file.mtime Asc LIMIT 5',
+    'TABLE file.mtime AS "Last Modified" FROM "" AND -#IgnorePublish SORT file.mtime Asc LIMIT 3',
   ],
   [
     "Added Files",
-    'TABLE WITHOUT ID file.link AS "NOTE", dateformat(file.ctime, "DD") AS ADDED FROM "" AND -#IgnorePublish WHERE file.cday SORT file.ctime Asc LIMIT 5',
+    'TABLE WITHOUT ID file.link AS "NOTE", dateformat(file.ctime, "DD") AS ADDED FROM "" AND -#IgnorePublish WHERE file.cday SORT file.ctime Asc LIMIT 3',
   ],
 ]);
 
@@ -24,7 +24,7 @@ await fileAndQuery.forEach(async (query, filename) => {
   }
   const tFile = tp.file.find_tfile(filename);
   const queryOutput = await dv.queryMarkdown(query);
-  const fileContent = `%% #Ignore update via "Update Publish Files" template %% \n\n${queryOutput.value}`;
+  const fileContent = `%% #Ignore and #IgnorePublish update via "Update Publish Files" template %% \n\n${queryOutput.value}`;
   try {
     await app.vault.modify(tFile, fileContent);
     new Notice(`Updated ${tFile.basename}.`);

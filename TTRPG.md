@@ -1,5 +1,6 @@
+<!-- Remember add the #IgnorePublish to the Querys -->
 
-> [!kanban]+
+> [!kanban]+ Menu 
 > - [[Dungeons and Dragons]]
 > 	- ![[D&D5e.webp|350]]
 > - [[Pathfinder]]
