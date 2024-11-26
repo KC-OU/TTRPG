@@ -1,12 +1,13 @@
+
 > [!kanban]+
 > - [[Dungeons and Dragons]]
-> 	- ![[Adventure.webp|300]]
+> 	- ![[D&D5e.webp|350]]
 > - [[Pathfinder]]
-> 	- ![[Emrakul.webp|300]]
+> 	- ![[pathfinder.webp|300]]
 > - [[Star Wars Adventures]]
 > 	- ![[StarTrek-MainPage.webp.webp|300]]
 > - [[Warhammer 40,000]]
-> 	- ![[Gamerules.webp|300]]
+> 	- ![[warhammer.webp|300]]
 
 > [!infobox]+ Collapsible Infobox
 > # Recent Created
@@ -64,4 +65,3 @@ In a typical TTRPG, participants assume the roles of characters within a predete
 - Publisher: Games Workshop
 - Genre: Science Fiction, Dark Future
 - Unique Feature: Gritty, brutal setting with complex narrative possibilities 
-- 
