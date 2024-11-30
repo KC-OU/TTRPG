@@ -3,7 +3,7 @@
 > 	- ![[Adventure.webp|300]]
 > - [[Character Sheet]]
 > 	- ![[Emrakul.webp|300]]
-> - [[Game Rules]]
+> - [[Game Rules and Source Books]]
 > 	- ![[Gamerules.webp|300]]
 > - [[Dungeon Masters Guide]]
 > 	- ![[dmgcover.webp|300]]
