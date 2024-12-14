@@ -8,7 +8,7 @@ background:
 alignment: 
 experience_points: 
 ---
-
+%% #Ignore and #IgnorePublish update via "Update Publish Files" template %% 
 # 📊 Core Stats
 
 > [!info]- Ability Scores & Modifiers

@@ -1,12 +1,10 @@
 > [!kanban]+ Menu
 > - [[Adventures]]
-> 	- ![[Adventure.webp|300]]
+> 	- ![[Adventure.webp|400]]
 > - [[Character Sheet]]
-> 	- ![[Emrakul.webp|300]]
+> 	- ![[Emrakul.webp|400]]
 > - [[Game Rules and Source Books]]
-> 	- ![[Gamerules.webp|300]]
-> - [[Dungeon Masters Guide]]
-> 	- ![[dmgcover.webp|300]]
+> 	- ![[Gamerules.webp|400]]
 
 # Welcome
 

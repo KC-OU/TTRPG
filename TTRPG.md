@@ -1,22 +1,14 @@
 <!-- Remember add the #IgnorePublish to the Querys -->
 
-> [!kanban]+ Menu 
+> [!kanban]+ TTRPG Menu
 > - [[Dungeons and Dragons]]
 > 	- ![[D&D5e.webp|350]]
 > - [[Pathfinder]]
-> 	- ![[pathfinder.webp|300]]
+> 	- ![[pathfinder.webp|350]]
 > - [[Star Wars Adventures]]
-> 	- ![[StarTrek-MainPage.webp.webp|300]]
+> 	- ![[StarTrek-MainPage.webp.webp|350]]
 > - [[Warhammer 40,000]]
-> 	- ![[warhammer.webp|300]]
-
-> [!infobox]+ Collapsible Infobox
-> # Recent Created
-> ![[recent-created.webp|cover hsmall]]
-> ![[Added Files]]
-># Last Modified
-> ![[Last-Modified.webp|cover hsmall]]
->![[Added Files]]
+> 	- ![[warhammer.webp|350]]
 
 ## What are Tabletop Role-Playing Games?
 Tabletop Role-Playing Games (TTRPGs) are immersive storytelling experiences where players collaboratively create and explore fictional worlds through imagination, dice rolls, and character interactions. Unlike video games, TTRPGs rely on verbal communication, creative problem-solving, and shared narrative building, providing a unique form of interactive storytelling.
